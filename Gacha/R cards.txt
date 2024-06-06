@@ -1,0 +1,90 @@
+﻿R, Honoka, Natsuiro Egao de 2 JUMP, 1
+R, Honoka, Mogyutto Love de Sekkin Chu, 10
+R, Honoka, Wonderful Rush, 19
+R, Honoka, Bokura wa Ima no Naka de, 28
+R, Honoka, Snow Halation, 37
+R, Honoka, Korekara no Someday, 46
+R, Honoka, Yume no Tobira, 55
+R, Honoka, MUSIC S T A R T, 64
+R, Honoka, Dancing Stars on Me, 73
+R, Honoka, Kira-Kira Sensation, 82
+R, Eri, Natsuiro Egao de 2 JUMP, 2
+R, Eri, Mogyutto Love de Sekkin Chu, 11
+R, Eri, Wonderful Rush, 20
+R, Eri, Bokura wa Ima no Naka de, 29
+R, Eri, Snow Halation, 38
+R, Eri, Korekara no Someday, 47
+R, Eri, Yume no Tobira, 56
+R, Eri, MUSIC S T A R T, 65
+R, Eri, Dancing Stars on Me, 74
+R, Eri, Kira-Kira Sensation, 83
+R, Kotori, Natsuiro Egao de 2 JUMP, 3
+R, Kotori, Mogyutto Love de Sekkin Chu, 12
+R, Kotori, Wonderful Rush, 21
+R, Kotori, Bokura wa Ima no Naka de, 30
+R, Kotori, Snow Halation, 39
+R, Kotori, Korekara no Someday, 48
+R, Kotori, Yume no Tobira, 57
+R, Kotori, MUSIC S T A R T, 66
+R, Kotori, Dancing Stars on Me, 75
+R, Kotori, Kira-Kira Sensation, 84
+R, Umi, Natsuiro Egao de 2 JUMP, 4
+R, Umi, Mogyutto Love de Sekkin Chu, 13
+R, Umi, Wonderful Rush, 22
+R, Umi, Bokura wa Ima no Naka de, 31
+R, Umi, Snow Halation, 40
+R, Umi, Korekara no Someday, 49
+R, Umi, Yume no Tobira, 58
+R, Umi, MUSIC S T A R T, 67
+R, Umi, Dancing Stars on Me, 76
+R, Umi, Kira-Kira Sensation, 85
+R, Rin, Natsuiro Egao de 2 JUMP, 5
+R, Rin, Mogyutto Love de Sekkin Chu, 14
+R, Rin, Wonderful Rush, 23
+R, Rin, Bokura wa Ima no Naka de, 32
+R, Rin, Snow Halation, 41
+R, Rin, Korekara no Someday, 50
+R, Rin, Yume no Tobira, 59
+R, Rin, MUSIC S T A R T, 68
+R, Rin, Dancing Stars on Me, 77
+R, Rin, Kira-Kira Sensation, 86
+R, Maki, Natsuiro Egao de 2 JUMP, 6
+R, Maki, Mogyutto Love de Sekkin Chu, 15
+R, Maki, Wonderful Rush, 24
+R, Maki, Bokura wa Ima no Naka de, 33
+R, Maki, Snow Halation, 42
+R, Maki, Korekara no Someday, 51
+R, Maki, Yume no Tobira, 60
+R, Maki, MUSIC S T A R T, 69
+R, Maki, Dancing Stars on Me, 78
+R, Maki, Kira-Kira Sensation, 87
+R, Nozomi, Natsuiro Egao de 2 JUMP, 7
+R, Nozomi, Mogyutto Love de Sekkin Chu, 16
+R, Nozomi, Wonderful Rush, 25
+R, Nozomi, Bokura wa Ima no Naka de, 34
+R, Nozomi, Snow Halation, 43
+R, Nozomi, Korekara no Someday, 52
+R, Nozomi, Yume no Tobira, 61
+R, Nozomi, MUSIC S T A R T, 70
+R, Nozomi, Dancing Stars on Me, 79
+R, Nozomi, Kira-Kira Sensation, 88
+R, Hanayo, Natsuiro Egao de 2 JUMP, 8
+R, Hanayo, Mogyutto Love de Sekkin Chu, 17
+R, Hanayo, Wonderful Rush, 26
+R, Hanayo, Bokura wa Ima no Naka de, 35
+R, Hanayo, Snow Halation, 44
+R, Hanayo, Korekara no Someday, 53
+R, Hanayo, Yume no Tobira, 62
+R, Hanayo, MUSIC S T A R T, 71
+R, Hanayo, Dancing Stars on Me, 80
+R, Hanayo, Kira-Kira Sensation, 89
+R, Niko, Natsuiro Egao de 2 JUMP, 9
+R, Niko, Mogyutto Love de Sekkin Chu, 18
+R, Niko, Wonderful Rush, 27
+R, Niko, Bokura wa Ima no Naka de, 36
+R, Niko, Snow Halation, 45
+R, Niko, Korekara no Someday, 54
+R, Niko, Yume no Tobira, 63
+R, Niko, MUSIC S T A R T, 72
+R, Niko, Dancing Stars on Me, 81
+R, Niko, Kira-Kira Sensation, 90

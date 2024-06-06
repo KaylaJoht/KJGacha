@@ -1,0 +1,279 @@
+SR, Honoka, Dress, 91
+SR, Honoka, Job, 100
+SR, Honoka, Animal, 109
+SR, Honoka, August, 127
+SR, Honoka, September, 136
+SR, Honoka, November, 154
+SR, Honoka, December, 163
+SR, Honoka, February, 181
+SR, Honoka, March, 190
+SR, Honoka, April, 199
+SR, Honoka, May, 208
+SR, Honoka, July, 226
+SR, Honoka, China Dress, 235
+SR, Honoka, Maid, 244
+SR, Honoka, Halloween, 253
+SR, Honoka, Constellation, 262
+SR, Honoka, SLG, 280
+SR, Honoka, Valentines, 289
+SR, Honoka, White Day, 298
+SR, Honoka, Job V2, 307
+SR, Honoka, Magician, 325
+SR, Honoka, Marine, 334
+SR, Honoka, Pool, 343
+SR, Honoka, Kunoichi, 352
+SR, Honoka, Victorian, 370
+SR, Honoka, Choir, 379
+SR, Honoka, Circus, 388
+SR, Honoka, Fairy, 397
+SR, Honoka, Baseball, 415
+SR, Honoka, Dancing Girl, 424
+SR, Honoka, Devil, 442
+SR, Eri, Dress, 92
+SR, Eri, Job, 101
+SR, Eri, Animal, 110
+SR, Eri, August, 128
+SR, Eri, September, 137
+SR, Eri, October, 146
+SR, Eri, November, 155
+SR, Eri, January, 173
+SR, Eri, February, 182
+SR, Eri, March, 191
+SR, Eri, May, 209
+SR, Eri, July, 227
+SR, Eri, China Dress, 236
+SR, Eri, Maid, 245
+SR, Eri, Halloween, 254
+SR, Eri, Constellation, 263
+SR, Eri, Snowy Mountain, 272
+SR, Eri, Valentines, 290
+SR, Eri, White Day, 299
+SR, Eri, Cyber, 317
+SR, Eri, Magician, 326
+SR, Eri, Marine, 337
+SR, Eri, Kunoichi, 354
+SR, Eri, Animal V2, 362
+SR, Eri, Victorian, 371
+SR, Eri, Circus, 389
+SR, Eri, Fairy, 398
+SR, Eri, Taisho Romance, 407
+SR, Eri, Dancing Girl, 425
+SR, Eri, Idol Costume, 434
+SR, Eri, Devil, 443
+SR, Kotori, Dress, 93
+SR, Kotori, Job, 102
+SR, Kotori, Animal, 111
+SR, Kotori, August, 129
+SR, Kotori, October, 147
+SR, Kotori, November, 156
+SR, Kotori, December, 165
+SR, Kotori, January, 174
+SR, Kotori, February, 183
+SR, Kotori, March, 192
+SR, Kotori, April, 201
+SR, Kotori, June, 219
+SR, Kotori, July, 228
+SR, Kotori, Maid, 246
+SR, Kotori, Halloween, 255
+SR, Kotori, Constellation, 264
+SR, Kotori, SLG, 282
+SR, Kotori, Valentines, 291
+SR, Kotori, White Day, 300
+SR, Kotori, Cyber, 318
+SR, Kotori, Marine, 336
+SR, Kotori, Pool, 345
+SR, Kotori, Kunoichi, 354
+SR, Kotori, Animal V2, 363
+SR, Kotori, Choir, 381
+SR, Kotori, Circus, 390
+SR, Kotori, Fairy, 399
+SR, Kotori, Taisho Romance, 408
+SR, Kotori, Baseball, 417
+SR, Kotori, Idol Costume, 435
+SR, Kotori, Devil, 444
+SR, Umi, Dress, 94
+SR, Umi, Job, 103
+SR, Umi, Animal, 102
+SR, Umi, August, 130
+SR, Umi, October, 148
+SR, Umi, November, 157
+SR, Umi, December, 166
+SR, Umi, February, 184
+SR, Umi, March, 193
+SR, Umi, May, 211
+SR, Umi, June, 220
+SR, Umi, July, 229
+SR, Umi, China Dress, 238
+SR, Umi, Halloween, 256
+SR, Umi, Constellation, 265
+SR, Umi, Snowy Mountain, 274
+SR, Umi, SLG, 283
+SR, Umi, Valentines, 292
+SR, Umi, Job V2, 310
+SR, Umi, Cyber, 319
+SR, Umi, Magician, 328
+SR, Umi, Pool, 346
+SR, Umi, Kunoichi, 355
+SR, Umi, Animal V2, 364
+SR, Umi, Victorian, 373
+SR, Umi, Choir, 382
+SR, Umi, Fairy, 400
+SR, Umi, Taisho Romance, 409
+SR, Umi, Baseball, 418
+SR, Umi, Dancing Girl, 427
+SR, Umi, Idol Costume, 436
+SR, Rin, Dress, 95
+SR, Rin, Job, 104
+SR, Rin, Animal, 113
+SR, Rin, August, 131
+SR, Rin, September, 140
+SR, Rin, November, 158
+SR, Rin, December, 167
+SR, Rin, January, 176
+SR, Rin, February, 185
+SR, Rin, April, 203
+SR, Rin, May, 212
+SR, Rin, June, 221
+SR, Rin, July, 230
+SR, Rin, China Dress, 239
+SR, Rin, Halloween, 257
+SR, Rin, Snowy Mountain, 275
+SR, Rin, SLG, 284
+SR, Rin, White Day, 302
+SR, Rin, Job V2, 311
+SR, Rin, Cyber, 320
+SR, Rin, Magician, 329
+SR, Rin, Marine, 338
+SR, Rin, Kunoichi, 356
+SR, Rin, Animal V2, 365
+SR, Rin, Victorian, 374
+SR, Rin, Choir, 383
+SR, Rin, Circus, 392
+SR, Rin, Taisho Romance, 410
+SR, Rin, Baseball, 419
+SR, Rin, Idol Costume, 437
+SR, Rin, Devil, 446
+SR, Maki, Dress, 96
+SR, Maki, Job, 105
+SR, Maki, Animal, 114
+SR, Maki, August, 132
+SR, Maki, September, 141
+SR, Maki, October, 150
+SR, Maki, December, 168
+SR, Maki, January, 177
+SR, Maki, March, 195
+SR, Maki, April, 204
+SR, Maki, May, 213
+SR, Maki, June, 222
+SR, Maki, China Dress, 240
+SR, Maki, Maid, 249
+SR, Maki, Halloween, 258
+SR, Maki, Snowy Mountain, 276
+SR, Maki, SLG, 285
+SR, Maki, Valentines, 294
+SR, Maki, White Day, 303
+SR, Maki, Job V2, 312
+SR, Maki, Cyber, 321
+SR, Maki, Marine, 339
+SR, Maki, Pool, 348
+SR, Maki, Kunoichi, 357
+SR, Maki, Victorian, 375
+SR, Maki, Choir, 384
+SR, Maki, Fairy, 402
+SR, Maki, Taisho Romance, 411
+SR, Maki, Dancing Girl, 429
+SR, Maki, Idol Costume, 438
+SR, Maki, Devil, 447
+SR, Nozomi, Dress, 97
+SR, Nozomi, Job, 106
+SR, Nozomi, Animal, 115
+SR, Nozomi, September, 142
+SR, Nozomi, October, 151
+SR, Nozomi, November, 160
+SR, Nozomi, January, 178
+SR, Nozomi, February, 187
+SR, Nozomi, March, 196
+SR, Nozomi, April, 205
+SR, Nozomi, May, 214
+SR, Nozomi, June, 223
+SR, Nozomi, China Dress, 241
+SR, Nozomi, Maid, 250
+SR, Nozomi, Constellation, 268
+SR, Nozomi, Snowy Mountain, 277
+SR, Nozomi, SLG, 286
+SR, Nozomi, White Day, 304
+SR, Nozomi, Job V2, 313
+SR, Nozomi, Cyber, 322
+SR, Nozomi, Magician, 331
+SR, Nozomi, Pool, 349
+SR, Nozomi, Kunoichi, 358
+SR, Nozomi, Animal V2, 367
+SR, Nozomi, Choir, 385
+SR, Nozomi, Circus, 394
+SR, Nozomi, Fairy, 403
+SR, Nozomi, Taisho Romance, 412
+SR, Nozomi, Baseball, 421
+SR, Nozomi, Dancing Girl, 430
+SR, Nozomi, Devil, 448
+SR, Hanayo, Dress, 98
+SR, Hanayo, Job, 107
+SR, Hanayo, Animal, 106
+SR, Hanayo, August, 134
+SR, Hanayo, September, 143
+SR, Hanayo, October, 152
+SR, Hanayo, December, 170
+SR, Hanayo, January, 179
+SR, Hanayo, February, 188
+SR, Hanayo, April, 206
+SR, Hanayo, June, 224
+SR, Hanayo, July, 233
+SR, Hanayo, China Dress, 242
+SR, Hanayo, Maid, 251
+SR, Hanayo, Constellation, 269
+SR, Hanayo, Snowy Mountain, 278
+SR, Hanayo, SLG, 287
+SR, Hanayo, Valentines, 296
+SR, Hanayo, Job V2, 314
+SR, Hanayo, Cyber, 323
+SR, Hanayo, Magician, 332
+SR, Hanayo, Marine, 341
+SR, Hanayo, Pool, 350
+SR, Hanayo, Animal V2, 368
+SR, Hanayo, Victorian, 377
+SR, Hanayo, Circus, 395
+SR, Hanayo, Fairy, 404
+SR, Hanayo, Baseball, 422
+SR, Hanayo, Dancing Girl, 431
+SR, Hanayo, Idol Costume, 440
+SR, Hanayo, Devil, 449
+SR, Niko, Dress, 99
+SR, Niko, Job, 108
+SR, Niko, Animal, 117
+SR, Niko, September, 144
+SR, Niko, October, 153
+SR, Niko, November, 162
+SR, Niko, December, 171
+SR, Niko, January, 180
+SR, Niko, March, 198
+SR, Niko, April, 207
+SR, Niko, May, 216
+SR, Niko, June, 225
+SR, Niko, July, 234
+SR, Niko, Maid, 252
+SR, Niko, Halloween, 261
+SR, Niko, Constellation, 270
+SR, Niko, Snowy Mountain, 279
+SR, Niko, Valentines, 297
+SR, Niko, White Day, 306
+SR, Niko, Job V2, 315
+SR, Niko, Magician, 333
+SR, Niko, Marine, 342
+SR, Niko, Pool, 351
+SR, Niko, Animal V2, 369
+SR, Niko, Victorian, 378
+SR, Niko, Choir, 387
+SR, Niko, Circus, 396
+SR, Niko, Taisho Romance, 414
+SR, Niko, Baseball, 423
+SR, Niko, Dancing Girl, 432
+SR, Niko, Idol Costume, 441

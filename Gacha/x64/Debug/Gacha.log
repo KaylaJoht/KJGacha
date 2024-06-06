@@ -1,0 +1,14 @@
+﻿  Gacha.cpp
+C:\Users\kayla\source\repos\Gacha\Gacha\Gacha.cpp(49,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\kayla\source\repos\Gacha\Gacha\Gacha.cpp(93,37): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\kayla\source\repos\Gacha\Gacha\Gacha.cpp(94,37): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\kayla\source\repos\Gacha\Gacha\Gacha.cpp(95,35): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\kayla\source\repos\Gacha\Gacha\Gacha.cpp(324,35): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\kayla\source\repos\Gacha\Gacha\Gacha.cpp(633,25): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\kayla\source\repos\Gacha\Gacha\Gacha.cpp(634,25): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\kayla\source\repos\Gacha\Gacha\Gacha.cpp(635,23): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  GachaFile.cpp
+  GachaList.cpp
+  Generating Code...
+C:\Users\kayla\source\repos\Gacha\Gacha\Gacha.cpp(412): warning C4715: 'Display': not all control paths return a value
+  Gacha.vcxproj -> C:\Users\kayla\source\repos\Gacha\x64\Debug\Gacha.exe

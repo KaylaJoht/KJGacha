@@ -1,0 +1,81 @@
+UR, Honoka, Initial, 118
+UR, Honoka, October, 145
+UR, Honoka, January, 172
+UR, Honoka, June, 218
+UR, Honoka, Snowy Mountain, 271
+UR, Honoka, Cyber, 316
+UR, Honoka, Animal V2, 361
+UR, Honoka, Taisho Romance, 406
+UR, Honoka, Idol Costume, 433
+UR, Eri, Initial, 119
+UR, Eri, December, 164
+UR, Eri, April, 200
+UR, Eri, June, 217
+UR, Eri, Seven Lucky Gods, 281
+UR, Eri, Job V2, 308
+UR, Eri, Pool, 346
+UR, Eri, Choir, 380
+UR, Eri, Baseball, 416
+UR, Kotori, Initial, 120
+UR, Kotori, September, 138
+UR, Kotori, May, 210
+UR, Kotori, China Dress, 237
+UR, Kotori, Snowy Mountain, 273
+UR, Kotori, Job V2, 309
+UR, Kotori, Magician, 327
+UR, Kotori, Victorian, 372
+UR, Kotori, Dancer, 426
+UR, Umi, Initial, 121
+UR, Umi, September, 139
+UR, Umi, January, 175
+UR, Umi, April, 202
+UR, Umi, Maid, 247
+UR, Umi, White Day, 301
+UR, Umi, Marine, 337
+UR, Umi, Circus, 391
+UR, Umi, Devil, 445
+UR, Rin, Initial, 122
+UR, Rin, October, 149
+UR, Rin, March, 194
+UR, Rin, Maid, 248
+UR, Rin, Constellation, 266
+UR, Rin, Valentine's Day, 293
+UR, Rin, Pool, 347
+UR, Rin, Fairy, 401
+UR, Rin, Dancer, 428
+UR, Maki, Initial, 123
+UR, Maki, November, 159
+UR, Maki, February, 186
+UR, Maki, July, 231
+UR, Maki, Constellation, 267
+UR, Maki, Magician, 330
+UR, Maki, Animal V2, 366
+UR, Maki, Circus, 393
+UR, Maki, Baseball, 420
+UR, Nozomi, Initial, 124
+UR, Nozomi, August, 133
+UR, Nozomi, December, 169
+UR, Nozomi, July, 232
+UR, Nozomi, Halloween, 259
+UR, Nozomi, Valentine's Day, 295
+UR, Nozomi, Marine, 340
+UR, Nozomi, Victorian, 376
+UR, Nozomi, Idol Costume, 439
+UR, Hanayo, Initial, 125
+UR, Hanayo, Novemeber, 161
+UR, Hanayo, March, 197
+UR, Hanayo, May, 215
+UR, Hanayo, Halloween, 260
+UR, Hanayo, White Day, 305
+UR, Hanayo, Kunoichi, 359
+UR, Hanayo, Choir, 386
+UR, Hanayo, Taisho Romance, 413
+UR, Niko, Initial, 126
+UR, Niko, August, 135
+UR, Niko, February, 189
+UR, Niko, China Dress, 243
+UR, Niko, Seven Lucky Gods, 288
+UR, Niko, Cyber, 324
+UR, Niko, Kunoichi, 360
+UR, Niko, Fairy, 405
+UR, Niko, Devil, 450
